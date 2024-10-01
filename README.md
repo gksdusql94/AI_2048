@@ -52,16 +52,12 @@ def evaluate(grid):
     return number_of_blank_tiles + bonus
 ```
 
-## Instrutions
+## 🚀 Instrutions
+Run the game
 
-To use the 2048PuzzlePlayer, follow these steps:
-
-Ensure you have Python installed on your system.
-Download the provided skeleton code files, including GameManager.py, Grid.py, BaseAI.py, ComputerAI.py, and PlayerAI.py.
-Implement your AI player logic in the PlayerAI.py file by inheriting from BaseAI and implementing the getMove() function.
-Test your AI player by executing the GameManager.py file using the Python interpreter.
-Observe the AI player's performance in the 2048 game and make adjustments to improve its strategy if necessary.
-
+```python
+python GameManager.py
+```
 ## 📂 Files Overview
 
 - PlayerAI_3.py: Implements AI logic with Expectiminimax and heuristics.
