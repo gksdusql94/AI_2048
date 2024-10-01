@@ -7,7 +7,7 @@ The 2048 Puzzle AI Player is an intelligent agent designed to play the 2048 puzz
 ![](https://i.imgur.com/FxkLPRi.png)
 
 
-## Algorithmic                 
+## 🧠 Algorithmic                 
 ### Minimax Algorithm
 The AI player employs the minimax algorithm, which is used in adversarial search scenarios to minimize potential losses assuming optimal opponent behavior.
 
